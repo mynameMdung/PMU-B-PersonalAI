@@ -25,7 +25,7 @@ The "0.jpg" file is the default thumbnail YouTube uses, but you can also refer t
 - http://img.youtube.com/vi/ZdS7RndVHXA/2.jpg
 - http://img.youtube.com/vi/ZdS7RndVHXA/3.jpg
 - http://img.youtube.com/vi/ZdS7RndVHXA/default.jpg
-- [x] http://img.youtube.com/vi/ZdS7RndVHXA/maxresdefault.jpg 
+- http://img.youtube.com/vi/ZdS7RndVHXA/maxresdefault.jpg (maximum resolution, are not always available)
 - http://img.youtube.com/vi/ZdS7RndVHXA/hqdefault.jpg
 
 ----
