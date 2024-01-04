@@ -20,6 +20,10 @@ Personal AI Orientation I :point_right: [Click here](https://github.com/mynameMd
 [![Watch the video](http://img.youtube.com/vi/<insert-youtube-video-id-here>/0.jpg)](https://youtu.be/<insert-youtube-video-id-here>)
 ```
 
+```
+[![Watch the video](http://img.youtube.com/vi/ZdS7RndVHXA/0.jpg)](https://youtu.be/ZdS7RndVHXA)
+```
+
 ---
 
 #### *More tips
