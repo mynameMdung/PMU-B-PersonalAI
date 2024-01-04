@@ -13,20 +13,22 @@ Personal AI Orientation I :point_right: [Click here](https://github.com/mynameMd
 
 # Embed a YouTube Video in GitHub ReadMe Markdown.
 
-[![Watch the video](http://img.youtube.com/vi/shu7ht4EepY/maxresdefault.jpg)](https://youtu.be/shu7ht4EepY?si=NF2fqxlHijKOT3Xy)
+[![Watch the video](http://img.youtube.com/vi/ZdS7RndVHXA/0.jpg)](https://youtu.be/ZdS7RndVHXA?si=rRnk2_Aj3Zk1M3gb)
 
 #### *More tips
 The "0.jpg" file is the default thumbnail YouTube uses, but you can also refer to other thumbnails by changing the number. For example, "1.jpg" is the first thumbnail YouTube generates, and "2.jpg" is the second. You can use these in your ReadMe to show a different thumbnail than the default. There are also high resolution options at "maxresdefault.jpg" and "hqdefault.jpg".
 
  **Examples (click to see each image from my Ardalis.GuardClauses video):**
 
-- http://img.youtube.com/vi/shu7ht4EepY/0.jpg
-- http://img.youtube.com/vi/shu7ht4EepY/1.jpg
-- http://img.youtube.com/vi/shu7ht4EepY/2.jpg
-- http://img.youtube.com/vi/shu7ht4EepY/3.jpg
-- [x] http://img.youtube.com/vi/shu7ht4EepY/maxresdefault.jpg
-- http://img.youtube.com/vi/shu7ht4EepY/hqdefault.jpg
+- http://img.youtube.com/vi/ZdS7RndVHXA/0.jpg
+- http://img.youtube.com/vi/ZdS7RndVHXA/1.jpg
+- http://img.youtube.com/vi/ZdS7RndVHXA/2.jpg
+- http://img.youtube.com/vi/ZdS7RndVHXA/3.jpg
+- http://img.youtube.com/vi/ZdS7RndVHXA/default.jpg
+- [x] http://img.youtube.com/vi/ZdS7RndVHXA/maxresdefault.jpg 
+- http://img.youtube.com/vi/ZdS7RndVHXA/hqdefault.jpg
 
+----
 
 
 
