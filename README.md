@@ -7,6 +7,8 @@ Personal AI Orientation I :point_right: [Click here](https://github.com/mynameMd
 
 ![schedule](conclude.png)  
 
+![QA](QA.png)  
+
 
 ---------
 
