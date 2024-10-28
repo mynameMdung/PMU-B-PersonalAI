@@ -13,7 +13,7 @@ Personal AI Orientation I :point_right: [Click here](https://github.com/mynameMd
 
 # Embed a YouTube Video in GitHub ReadMe Markdown.
 
-[![Watch the video](http://img.youtube.com/vi/ZdS7RndVHXA/2.jpg)](https://youtu.be/ZdS7RndVHXA)
+[![Watch the video](http://img.youtube.com/vi/ZdS7RndVHXA/1.jpg)](https://youtu.be/ZdS7RndVHXA)
 
 
 ```
