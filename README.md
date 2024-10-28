@@ -1,7 +1,7 @@
 # PMU-B-PersonalAI
 ## PMU-B Thailand Coding Academy (Personal AI)
 ----
-Personal AI Orientation I :point_right: [Click here]([https://github.com/mynameMdung/PMU-B-PersonalAI/blob/main/121123_Orientation_PersonalAI.pdf](https://github.com/mynameMdung/PMU-B-PersonalAI/blob/main/OrientationSS2-PersonalAI_28102024.pdf))
+Personal AI Orientation I :point_right: [Click here](https://github.com/mynameMdung/PMU-B-PersonalAI/blob/main/OrientationSS2-PersonalAI_28102024.pdf)
 - [x] สรุปเวลาเรียน และส่งงาน
 
 
